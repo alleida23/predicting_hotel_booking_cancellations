@@ -1,1 +1,5 @@
 Notebooks/
+Datasets/clean_EDA_data.csv
+Datasets/data_preprocessed.csv
+Datasets/data_processed_for_ML.csv
+
